@@ -172,3 +172,12 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini di komputer loka
    ```bash
    git clone <URL_REPOSITORY_ANDA>
    cd frontend
+
+
+   
+
+
+
+
+
+
