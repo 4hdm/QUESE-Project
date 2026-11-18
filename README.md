@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # QueueEase – Smart Queue (Supabase Edition)
 
 Starter project sistem antrean digital: React + Vite + Tailwind CSS, Express.js, dan PostgreSQL yang di-host di Supabase.
@@ -172,4 +172,3 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini di komputer loka
    ```bash
    git clone <URL_REPOSITORY_ANDA>
    cd frontend
->>>>>>> 6b89049a15dbfe915910fd0ccd706629d980452e
